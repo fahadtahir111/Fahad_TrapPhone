@@ -1,3 +1,5 @@
+preview:https://youtu.be/zMqN34Yfg7Q?si=KHWaaiJh2ZuuyMdR
+
 # 🚬 TrapPhone - Drug Selling System
 
 A complete drug selling system for FiveM ESX servers with phone interface, NPC buyers, and inventory integration.
